@@ -13,7 +13,7 @@
 }
 .header{ 
  height: 60%;
- background-image: url("../img/fondo3.jpg");
+ background-image: url("./img/fondo3.jpg");
  background-color: thistle;
  display: flex;
  flex-direction: row;
